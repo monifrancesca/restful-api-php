@@ -146,3 +146,4 @@ class MyAPI extends API
 
  <!-- this is a commit for the sake of committing. boo. -->
  <!-- And another one -->
+ <!-- And one more before midnight -->
